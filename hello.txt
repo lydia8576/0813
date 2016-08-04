@@ -6,4 +6,6 @@ zxcvbnm,.
 fkljgk;flj;kvkfmd/vmd,
 
 int main(){
+	int a = 0;
+
 }
